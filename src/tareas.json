@@ -1,0 +1,23 @@
+{
+    "tareas":[
+        {
+            "titulo": "Mi primer tarea",
+            "responsable":"gerardo",
+            "descripcion": "es mi primer tarea",
+            "prioridad":"baja"
+        },
+        {
+            "titulo": "Mi 2 tarea",
+            "responsable":"rosas",
+            "descripcion": "es mi primer tarea",
+            "prioridad":"alta"
+        },
+        {
+            "titulo": "Mi 3 tarea",
+            "responsable":"eduardo",
+            "descripcion": "es mi primer tarea",
+            "prioridad":"media"
+        }
+    
+    ]
+}
